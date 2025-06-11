@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "Fatima Ahmed",
+    "age": "35",
+    "gender": "Female",
+    "location": "Chattogram, Bangladesh",
+    "occupation": "Small-scale farmer",
+    "description": "Fatima and her family run a small farm living in a low-lying region of Bangladesh, where she helps cultivate crops to support her family.",
+    "moreInfoLinks": [
+      "https://ejfoundation.org/what-we-do/on-the-front-line-of-climate-change"
+    ],
+    "image": "1.jpg",
+    "important": null,
+    "seq": 1
+  },
+  {
+    "id": 2,
+    "name": "Diego Gonzalez",
+    "age": "28",
+    "gender": "Male",
+    "location": "Lima, Peru",
+    "occupation": "Fisherman",
+    "description": "Diego comes from a long line of fishermen who have relied on the ocean to support his family and maintain his traditional way of life.",
+    "moreInfoLinks": [
+      "https://www.climatelinks.org/countries/peru",
+      "https://oceanconservancy.org/blog/2014/06/30/what-will-ocean-acidification-mean-for-a-small-town-in-peru/"
+    ],
+    "image": "2.webp",
+    "important": null,
+    "seq": 1
+  },
+  {
+    "id": 3,
+    "name": "Amina Saidi",
+    "age": "32",
+    "gender": "Female",
+    "location": "Near Mogadishu, Somalia",
+    "occupation": "Baker",
+    "description": "Amina runs a small bakery in her village 300km from Mogadishu. She has built her business over several years and needs her income to feed and put her 3 young children through school.",
+    "moreInfoLinks": [
+      "https://www.pbs.org/newshour/show/famine-propelled-by-conflict-and-climate-change-threatens-millions-in-somalia"
+    ],
+    "image": "3.jpg",
+    "important": null,
+    "seq": 1
+  },
+  {
+    "id": 4,
+    "name": "Javier Ramirez",
+    "age": "60",
+    "gender": "Male",
+    "location": "Phoenix, Arizona, USA",
+    "occupation": "Homeless veteran",
+    "description": "Javier spent his whole life in the city, he fought in the Korean War and has struggled with his mental health.",
+    "moreInfoLinks": [
+      "https://apnews.com/article/homeless-heat-phoenix-climate-a47f04ee21b96651585f3684ac35cb6e",
+      "https://www.theguardian.com/us-news/2023/aug/01/heat-related-deaths-us-temperatures-heatwave?CMP=Share_iOSApp_Other",
+      "https://www.bbc.co.uk/news/world-us-canada-66158847"
+    ],
+    "image": "4.jpg",
+    "important": null,
+    "seq": 1
+  },
+  {
+    "id": 5,
+    "name": "David Jones",
+    "age": "55",
+    "gender": "Male",
+    "location": "Machynlleth, UK",
+    "occupation": "Dairy Farmer",
+    "description": "David is a 3rd generation dairy farmer running their medium size holding in Wales. They have around 300 cows.",
+    "moreInfoLinks": [
+      "https://www.theguardian.com/business/2023/jul/29/uk-dairy-farmers-costs-milk-price-energy-feed-bills"
+    ],
+    "image": "5.jpg",
+    "important": null,
+    "seq": 1
+  },
+  {
+    "id": 6,
+    "name": "Elahee Hafiz",
+    "age": "6",
+    "gender": "Female",
+    "location": "Palmyra, Syria",
+    "occupation": "Child",
+    "description": "(cast your mind back to 2010) Elahee is a preccocious 6 year old who likes to play with the animals on her family farm.",
+    "moreInfoLinks": [
+      "https://www.motherjones.com/politics/2014/05/syria-climate-years-living-dangerously-symbolia/"
+    ],
+    "image": "6.webp",
+    "important": null,
+    "seq": 1
+  }
+]
