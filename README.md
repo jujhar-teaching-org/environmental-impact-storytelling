@@ -4,21 +4,31 @@ This ancient legacy application has been dug up and needs to be deployed again a
 
 ![alt text](image.png)
 
+## Some guidance
+
 - It's a bit on the old side and can't handle much load, we're expected to have it serve people around the world.
 - The customer is a big supermarket and has been hacked recently so their sensitive about security
 
-## Core tasks
+## Your mission
+
+Is to pair with us and work on the following tasks, ask questions as you go along and describe what you're doing and more importantly **why**
+
+> Correct thinking is more important than the correct answer.
+
+We want to know and understand your thought processes and how you'll work with us and we'll work with you.  We'd rather have the "wrong" answer explained perfectly than the "correct" answer with no justification.
+
+### Core tasks
 
 You may **not** use LLM assistance for this section.
 
-- [ ] Clone the project
+- [ ] Fork and Clone the project, commit your work
 - [ ] Get it running locally
 - [ ] Get it working with latest NodeJS
 - [ ] Anything else we should do to the project to:
   - [ ] make the customer feel at ease
   - [ ] make it less 'legacy' and easier to work on
 
-## Stretch Tasks
+### Stretch Tasks
 
 You **may** use LLM assistance for this section.
 
